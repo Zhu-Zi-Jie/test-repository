@@ -3,3 +3,4 @@ hello git!
 hello git!!!
 hello git repository!
 new push test is successful
+second time to test push
